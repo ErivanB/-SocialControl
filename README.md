@@ -1,5 +1,3 @@
-# -SocialControl
-
 Social Time Tracker
 Este é um aplicativo desenvolvido para ajudar os usuários a monitorar e controlar o tempo que passam em redes sociais. Ele fornece uma visão detalhada sobre o uso do tempo em diferentes plataformas e permite que os usuários configurem limites de tempo para melhorar sua produtividade e bem-estar.
 
